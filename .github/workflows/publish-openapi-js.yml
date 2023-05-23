@@ -7,7 +7,7 @@ on:
         required: true
         type: string
         description: The full path to the test to run, e.g. uk.gov.hmcts.reform.myapp.openapi.OpenAPIPublisherTest
-      java_version:
+      node_version:
         required: true
         type: string
     secrets:
